@@ -96,11 +96,11 @@
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x0b00366fBF7037E9d75E4A569ab27dAB84759302/logo.png"
   },
     {
-    "chainId": 10000,
-    "address": "0x252fd94f3Fb53D3D62F4FEc708501ACd59A57e52",
     "name": "The HAM Token",
+    "address": "0x252fd94f3Fb53D3D62F4FEc708501ACd59A57e52",
     "symbol": "HAM",
     "decimals": 8,
+    "chainId": 10000,
     "logoURI": "https://ibb.co/Qdkdn88"
   }
 ]
